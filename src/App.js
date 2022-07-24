@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom";
 
 import { CMSRoutes } from "./routers/CMSRoutes";
 import { GuestRoutes } from "./routers/GuestRoutes";
-import { NotFoundScreen } from "./screens/NotFoundScreen";
 
 function App() {
   return (
